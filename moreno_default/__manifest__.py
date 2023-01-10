@@ -265,7 +265,7 @@
 
         # OCA
         # ==========================================================================================
-        # 'https://github.com/OCA/account-closing oca-account-closing',
+        'https://github.com/OCA/account-closing oca-account-closing',
         'https://github.com/OCA/account-financial-reporting oca-account-financial-reporting',  # noqa
         'https://github.com/OCA/account-financial-tools oca-account-financial-tools',
         'https://github.com/OCA/account-invoicing oca-account-invoicing',
