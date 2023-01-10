@@ -302,7 +302,7 @@
         # 'https://github.com/OCA/oca-custom oca-oca-custom',
         # 'https://github.com/OCA/operating-unit oca-operating-unit',
         # 'https://github.com/OCA/payroll.git oca-payroll',
-        # 'https://github.com/OCA/partner-contact oca-partner-contact',
+        'https://github.com/OCA/partner-contact oca-partner-contact',
         # 'https://github.com/OCA/pos oca-pos',
         'https://github.com/OCA/product-attribute oca-product-attribute',
         # 'https://github.com/OCA/product-pack oca-product-pack',
