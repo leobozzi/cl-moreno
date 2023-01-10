@@ -265,6 +265,7 @@
 
         # OCA
         # ==========================================================================================
+        'https://github.com/OCA/account-analytic oca-account-analytic',
         'https://github.com/OCA/account-closing oca-account-closing',
         'https://github.com/OCA/account-financial-reporting oca-account-financial-reporting',  # noqa
         'https://github.com/OCA/account-financial-tools oca-account-financial-tools',
@@ -348,7 +349,7 @@
 
         'https://github.com/ingadhoc/odoo-argentina ingadhoc-odoo-argentina',
         # 'https://github.com/ingadhoc/odoo-argentina-ee ingadhoc-odoo-argentina-ee',
-        # 'https://github.com/ingadhoc/partner ingadhoc-partner',
+        'https://github.com/ingadhoc/partner ingadhoc-partner',
         'https://github.com/ingadhoc/product ingadhoc-product',
         # 'https://github.com/ingadhoc/project ingadhoc-project',
         'https://github.com/ingadhoc/purchase ingadhoc-purchase',
