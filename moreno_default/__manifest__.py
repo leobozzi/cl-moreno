@@ -331,8 +331,9 @@
 
         # ADHOC
         # ==========================================================================================
-        # 'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
+        'https://github.com/ingadhoc/account-analytic ingadhoc-account-analytic',
         'https://github.com/ingadhoc/account-financial-tools ingadhoc-account-financial-tools',  # noqa
+        'https://github.com/ingadhoc/account-invoicing ingadhoc-account-invoicing',
         'https://github.com/ingadhoc/account-payment ingadhoc-account-payment',
         'https://github.com/ingadhoc/aeroo_reports ingadhoc-aeroo_reports',
         'https://github.com/ingadhoc/argentina-reporting ingadhoc-argentina-reporting',
